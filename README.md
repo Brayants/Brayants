@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Power Bi, DML e Excel (Power Query)**
 
-- 📫 Você me acha através do e-mail **brayan.desenvolvedor@hotmail.com**
+- 📫 Você me achar através do e-mail **brayan.desenvolvedor@hotmail.com**
 
 - 📄 Minhas experiências e artigos estão no [https://br.linkedin.com/in/amoestudar](https://br.linkedin.com/in/amoestudar)
 
