@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Brayan</h1>
 <h3 align="center">Carreira em análise de dados</h3>
 
-- 🌱 Atualmente aprendendo **Excel, Python, PostgreSQL, Power Bi, MS Access**
+- 🌱 Atualmente aprendendo **Excel, Python, PostgreSQL, Power Bi**
 
 - 💬 Me pergunte sobre **Power Bi, DML e Excel (Power Query)**
 
